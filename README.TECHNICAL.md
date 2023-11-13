@@ -128,6 +128,8 @@ HTML5, CSS3, Javascript
 
 ### **Authors and Acknowledgment:**
 
+----
+
 ### Copyright
 
 N. James George © 2023. All Rights Reserved.
