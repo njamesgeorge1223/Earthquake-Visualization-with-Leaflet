@@ -1,0 +1,148 @@
+/*******************************************************************************************
+ #
+ #  File Name:  style.css
+ #
+ #  File Description:
+ #      This css file, style.css, contains the css code for the html files,
+ #      index.html and indexEarthquakesHeatmap.html.
+ #
+ #
+ #  Date            Description                             Programmer
+ #  ----------      ------------------------------------    ------------------
+ #  10/26/2023      Initial Development                     N. James George
+ #
+ #******************************************************************************************/
+
+#mapid,
+body,
+html 
+{
+  height: 95%;
+}
+
+body 
+{
+  margin: 0;
+  padding: 0;
+}
+
+h3 
+{
+  font-family: Georgia, Garamond;
+  margin: 0px;
+  padding: 2px;
+}
+
+p 
+{
+  font-family: Georgia, Garamond;
+  margin: -5px;
+  padding: -6px;
+}
+
+label 
+{
+  font-family: Georgia, Garamond;
+  margin: 5px;
+  padding: 10px;
+}
+
+.info 
+{
+  border-radius: 5px;
+  padding: 1px 10px;
+  background: #ebfae2;
+}
+
+.leaflet-control-layers-toggle 
+{
+  align-items: center;
+  background-color: white;
+  border-radius: 5px;
+  border-top-right-radius: 5px;
+  border-top-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  height: 50px;
+  width: 50px;
+  justify-content: center;
+}
+
+.leaflet-control-layers-expanded 
+{
+  background-color: white;
+  border: 3px solid black;
+  border-top-right-radius: 25px;
+  border-top-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+  color: black;
+  font-family: Georgia;
+  font-size: 16px;
+  height: auto;
+  width: 200px;
+}
+
+.easy-button-container 
+{
+  align-items: center;
+  border-radius: 5px;
+  bottom: -55px;
+  right: 0px;
+  display: flex;
+  height: 50px;
+  width: 50px;
+  justify-content: center;
+  position: absolute;
+  z-index: 100;
+}
+
+#legend-button 
+{
+  align-items: center;
+  border-radius: 5px;
+  height: 50px;
+  width: 50px;
+  justify-content: center;
+}
+
+.button-keys 
+{
+  filter: 
+    invert(70%) 
+    sepia(5%) 
+    saturate(10%) 
+    hue-rotate(350deg) 
+    brightness(90%) 
+    contrast(80%);
+  padding-right: 0px;
+  padding-top: 15px;
+  transform: rotate(270deg);
+}
+
+.legend 
+{
+  background-color: white;
+  border: 3px solid black;
+  border-top-right-radius: 25px;
+  border-top-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+  color: black;
+  font-family: Georgia;
+  font-size: 14px;
+  height: auto;
+  width: 200px;
+  justify-content: center;
+  line-height: 2.0;
+  padding: 10px;
+} 
+
+.legend p 
+{
+  color: black;
+  font-family: Georgia;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center
+}
