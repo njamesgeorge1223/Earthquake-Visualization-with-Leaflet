@@ -6,9 +6,15 @@ The United States Geological Survey, or USGS for short, is responsible for provi
 
 ----
 
-<img width="1683" alt="EarthquakeVisualizationToolkit1" src="https://github.com/njgeorge000158/leaflet-challenge/assets/137228821/9721f2a8-5918-493f-9435-7d16c27a0940">
+<img width="1678" alt="EarthquakeVisualizationToolkit1" src="https://github.com/njgeorge000158/leaflet-challenge/assets/137228821/12ef447a-94cd-4dd4-96c8-f0d3064b4790">
 
-<img width="1683" alt="EarthquakeHeatmapToolkit3" src="https://github.com/njgeorge000158/leaflet-challenge/assets/137228821/1fac9414-f548-43d6-8851-c7ef92178b48">
+<img width="1677" alt="EarthquakeVisualizationToolkit6" src="https://github.com/njgeorge000158/leaflet-challenge/assets/137228821/0937df29-3572-498f-9e4e-8ee886f11437">
+
+----
+
+<img width="1676" alt="EarthquakeHeatmapToolkit1" src="https://github.com/njgeorge000158/leaflet-challenge/assets/137228821/a1c7c67e-1faa-4d37-aa03-3f297b8e0b59">
+
+<img width="1679" alt="EarthquakeHeatmapToolkit6" src="https://github.com/njgeorge000158/leaflet-challenge/assets/137228821/7122c398-32ff-4abd-aa73-35ec2741e08b">
 
 ----
 
