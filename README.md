@@ -2,7 +2,7 @@
 
 ----
 
-The United States Geological Survey, or USGS for short, is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment, and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes. Accordingly, they collect a massive amount of data from all over the world each day, but they lack a meaningful way of displaying it. In this challenge, I created the [Earthquake Visualization Toolkit and Earthquake Heatmap Toolkit](https://njgeorge000158.github.io/Earthquake-Visualization-with-Leaflet/) to visualize USGS data in a way that will allow them and other users to better educate the public and government organizations on issues facing our planet.
+The United States Geological Survey, or USGS for short, is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment, and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes. Accordingly, they collect a massive amount of data from all over the world each day, but they lack a meaningful way of displaying it. In this challenge, I created the [Earthquake Visualization Toolkit and Earthquake Heatmap Toolkit](https://njamesgeorge1223.github.io/Earthquake-Visualization-with-Leaflet/) to visualize USGS data in a way that will allow them and other users to better educate the public and government organizations on issues facing our planet.
 
 ----
 
